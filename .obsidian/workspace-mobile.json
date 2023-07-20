@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "flutter/test_git.md",
+                "file": "flutter/l10n.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "flutter/test_git.md",
+            "file": "flutter/l10n.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "flutter/test_git.md",
+            "file": "flutter/l10n.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "flutter/test_git.md"
+            "file": "flutter/l10n.md"
           }
         }
       }
@@ -134,10 +134,5 @@
     }
   },
   "active": "0a3347f340591fc5",
-  "lastOpenFiles": [
-    "flutter/l10n.md",
-    "flutter/test_git.md",
-    "/flutter/l10n.md",
-    "/flutter/test_git.md"
-  ]
+  "lastOpenFiles": []
 }
