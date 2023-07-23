@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "6a18ba41b528b54c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "new_ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "new_ideas.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "new_ideas.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +122,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "new_ideas.md"
+          }
         }
       }
     ],
@@ -125,8 +142,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0a3347f340591fc5",
+  "active": "6a18ba41b528b54c",
   "lastOpenFiles": [
+    "new_ideas.md",
     "flutter/packages/l10n.md",
     "/flutter/packages/l10n.md",
     "flutter/packages/json_serializable.md",
