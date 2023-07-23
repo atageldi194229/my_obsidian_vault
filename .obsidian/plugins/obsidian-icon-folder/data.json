@@ -3,12 +3,9 @@
     "migrated": true,
     "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
     "fontSize": 16,
-    "emojiStyle": "native",
+    "emojiStyle": "none",
     "iconColor": null,
-    "recentlyUsedIcons": [
-      "🐦",
-      "🤔"
-    ],
+    "recentlyUsedIcons": [],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -18,7 +15,5 @@
       "left": 0
     },
     "iconInTabsEnabled": false
-  },
-  "new_ideas.md": "🤔",
-  "flutter": "🐦"
+  }
 }

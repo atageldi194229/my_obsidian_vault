@@ -11,24 +11,15 @@
             "id": "0a3347f340591fc5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "6a18ba41b528b54c",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "new_ideas.md",
+                "file": "flutter/l10n.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "new_ideas.md",
+            "file": "flutter/l10n.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "new_ideas.md",
+            "file": "flutter/l10n.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "new_ideas.md"
+            "file": "flutter/l10n.md"
           }
         }
       }
@@ -142,19 +133,6 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a160d63986d4c84b",
-  "lastOpenFiles": [
-    "new_ideas.md",
-    "flutter/packages/l10n.md",
-    "/flutter/packages/l10n.md",
-    "flutter/packages/json_serializable.md",
-    "flutter/issues/update_without_vpn.md",
-    "/flutter/packages/json_serializable.md",
-    "/flutter/issues/update_without_vpn.md",
-    "flutter/l10n.md",
-    "flutter/packages",
-    "flutter/issues",
-    "/flutter/packages",
-    "/flutter/issues"
-  ]
+  "active": "0a3347f340591fc5",
+  "lastOpenFiles": []
 }
