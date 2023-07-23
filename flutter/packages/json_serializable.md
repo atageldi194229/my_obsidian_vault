@@ -42,4 +42,7 @@ class Person {
 }
 ```
 
-
+## Running the code generator
+```bash
+dart run build_runner build
+```
