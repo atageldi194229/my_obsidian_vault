@@ -11,8 +11,12 @@
             "id": "c47405e748e5cf1f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "flutter/packages/internalization-l10n.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "flutter/packages/internalization-l10n.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "flutter/packages/internalization-l10n.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "flutter/packages/internalization-l10n.md"
+              }
             }
           }
         ]
@@ -143,8 +151,8 @@
   "active": "c47405e748e5cf1f",
   "lastOpenFiles": [
     "flutter/packages/json_serializable.md",
+    "flutter/packages/internalization-l10n.md",
     "flutter/issues/update_without_vpn.md",
-    "flutter/packages/l10n.md",
     "flutter/issues",
     "flutter/Issues.md",
     "flutter/test_git.md",

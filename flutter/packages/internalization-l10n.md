@@ -3,8 +3,13 @@
 
 ### Setting up an internation­alized app: the Flutter_localizations package
 
-```bash
+```dart
 flutter pub add flutter_localizations --sdk=flutter
 flutter pub add intl:any
+```
+
+## Generate files
+```dart
+flutter gen-l10n
 ```
 
