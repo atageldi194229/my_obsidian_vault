@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "flutter/packages/internalization-l10n.md",
+                "file": "entertainment/manga.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flutter/packages/internalization-l10n.md",
+                "file": "entertainment/manga.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "flutter/packages/internalization-l10n.md",
+                "file": "entertainment/manga.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "flutter/packages/internalization-l10n.md"
+                "file": "entertainment/manga.md"
               }
             }
           }
@@ -150,8 +150,13 @@
   },
   "active": "c47405e748e5cf1f",
   "lastOpenFiles": [
-    "flutter/packages/json_serializable.md",
+    "entertainment/films.md",
+    "entertainment/manga.md",
+    "entertainment/anime.md",
+    "entertainment/drama.md",
     "flutter/packages/internalization-l10n.md",
+    "entertainment",
+    "flutter/packages/json_serializable.md",
     "flutter/issues/update_without_vpn.md",
     "flutter/issues",
     "flutter/Issues.md",
