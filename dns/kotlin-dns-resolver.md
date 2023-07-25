@@ -209,7 +209,5 @@ packet.put(13, dstAddress.address[1])
 packet.put(14, dstAddress.address[2])
 packet.put(15, dstAddress.address[3])
 
-
-
 ```
 
