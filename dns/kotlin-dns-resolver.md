@@ -1,3 +1,5 @@
+#dns #vpn #kotlin
+
 ## Question to BingAI
 write me code in kotlin android app. VpnService that only catches dns requests then tryes to find ip by requested domain from given path of hosts file in the storage then resolve found ip not sending request to real system dns server, if domain not found in hosts file then request to real dns server
 
