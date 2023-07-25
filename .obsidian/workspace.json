@@ -11,8 +11,12 @@
             "id": "889df0d1afc5aabd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "dns/swift-dns-resolver.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "dns/swift-dns-resolver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "dns/swift-dns-resolver.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "dns/swift-dns-resolver.md"
+              }
             }
           }
         ]
@@ -142,6 +150,9 @@
   },
   "active": "889df0d1afc5aabd",
   "lastOpenFiles": [
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "flutter/packages/json_serializable.md",
     "flutter/packages/internalization-l10n.md",
     "entertainment/drama.md",
@@ -150,10 +161,7 @@
     "entertainment/anime.md",
     "dns/kotlin-dns-resolver.md",
     "dns/swift-dns-resolver.md",
-    "Untitled 2.canvas",
     "2023-07-25.md",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
     "dns",
     "entertainment",
     "flutter/issues/update_without_vpn.md",
