@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "entertainment/manga.md",
+                "file": "dns/kotlin-dns-resolver.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "entertainment/manga.md",
+                "file": "dns/kotlin-dns-resolver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "entertainment/manga.md",
+                "file": "dns/kotlin-dns-resolver.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "entertainment/manga.md"
+                "file": "dns/kotlin-dns-resolver.md"
               }
             }
           }
@@ -150,8 +150,10 @@
   },
   "active": "c47405e748e5cf1f",
   "lastOpenFiles": [
-    "entertainment/films.md",
     "entertainment/manga.md",
+    "dns/kotlin-dns-resolver.md",
+    "dns",
+    "entertainment/films.md",
     "entertainment/anime.md",
     "entertainment/drama.md",
     "flutter/packages/internalization-l10n.md",
