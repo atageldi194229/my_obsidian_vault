@@ -11,12 +11,8 @@
             "id": "0a3347f340591fc5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "flutter/l10n.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "flutter/l10n.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "flutter/l10n.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "flutter/l10n.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -134,5 +126,38 @@
     }
   },
   "active": "0a3347f340591fc5",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "flutter/packages/internalization-l10n.md",
+    "entertainment/manga.md",
+    "entertainment/films.md",
+    "entertainment/drama.md",
+    "entertainment/anime.md",
+    "dns/swift-dns-resolver.md",
+    "dns/kotlin-dns-resolver.md",
+    "2023-07-25.md",
+    "/flutter/packages/json_serializable.md",
+    "/flutter/packages/internalization-l10n.md",
+    "/entertainment/manga.md",
+    "/entertainment/films.md",
+    "/entertainment/drama.md",
+    "/entertainment/anime.md",
+    "/dns/swift-dns-resolver.md",
+    "/dns/kotlin-dns-resolver.md",
+    "/2023-07-25.md",
+    "entertainment",
+    "dns",
+    "/entertainment",
+    "/dns",
+    "new_ideas.md",
+    "flutter/packages/l10n.md",
+    "/flutter/packages/l10n.md",
+    "flutter/packages/json_serializable.md",
+    "flutter/issues/update_without_vpn.md",
+    "/flutter/issues/update_without_vpn.md",
+    "flutter/l10n.md",
+    "flutter/packages",
+    "flutter/issues",
+    "/flutter/packages",
+    "/flutter/issues"
+  ]
 }
