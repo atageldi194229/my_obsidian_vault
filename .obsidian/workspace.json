@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dns/swift-dns-resolver.md",
+                "file": "test.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dns/swift-dns-resolver.md",
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dns/swift-dns-resolver.md",
+                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dns/swift-dns-resolver.md"
+                "file": "test.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   },
   "active": "889df0d1afc5aabd",
   "lastOpenFiles": [
+    "dns/swift-dns-resolver.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
@@ -160,8 +161,7 @@
     "entertainment/manga.md",
     "entertainment/anime.md",
     "dns/kotlin-dns-resolver.md",
-    "dns/swift-dns-resolver.md",
-    "2023-07-25.md",
+    "test.md",
     "dns",
     "entertainment",
     "flutter/issues/update_without_vpn.md",
