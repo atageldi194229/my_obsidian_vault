@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dns/kotlin-dns-resolver.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "3da89152b454bf47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Eleven Labs.md",
+                "file": "flutter/l10n.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Eleven Labs.md",
+            "file": "flutter/l10n.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Eleven Labs.md",
+            "file": "flutter/l10n.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Eleven Labs.md"
+            "file": "flutter/l10n.md"
           }
         }
       }
@@ -146,40 +133,6 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3da89152b454bf47",
-  "lastOpenFiles": [
-    "dns/kotlin-dns-resolver.md",
-    "Eleven Labs.md",
-    "flutter/packages/internalization-l10n.md",
-    "entertainment/manga.md",
-    "entertainment/films.md",
-    "entertainment/drama.md",
-    "entertainment/anime.md",
-    "dns/swift-dns-resolver.md",
-    "2023-07-25.md",
-    "/flutter/packages/json_serializable.md",
-    "/flutter/packages/internalization-l10n.md",
-    "/entertainment/manga.md",
-    "/entertainment/films.md",
-    "/entertainment/drama.md",
-    "/entertainment/anime.md",
-    "/dns/swift-dns-resolver.md",
-    "/dns/kotlin-dns-resolver.md",
-    "/2023-07-25.md",
-    "entertainment",
-    "dns",
-    "/entertainment",
-    "/dns",
-    "new_ideas.md",
-    "flutter/packages/l10n.md",
-    "/flutter/packages/l10n.md",
-    "flutter/packages/json_serializable.md",
-    "flutter/issues/update_without_vpn.md",
-    "/flutter/issues/update_without_vpn.md",
-    "flutter/l10n.md",
-    "flutter/packages",
-    "flutter/issues",
-    "/flutter/packages",
-    "/flutter/issues"
-  ]
+  "active": "0a3347f340591fc5",
+  "lastOpenFiles": []
 }

@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dns/swift-dns-resolver.md",
+                "file": "dns/kotlin-dns-resolver.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "840e2ef4fb21bf3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "utube_it_app.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dns/swift-dns-resolver.md",
+                "file": "utube_it_app.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dns/swift-dns-resolver.md",
+                "file": "utube_it_app.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dns/swift-dns-resolver.md"
+                "file": "utube_it_app.md"
               }
             }
           }
@@ -148,8 +161,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "889df0d1afc5aabd",
+  "active": "840e2ef4fb21bf3f",
   "lastOpenFiles": [
+    "dns/swift-dns-resolver.md",
+    "flutter/security/release build.md",
+    "dns/kotlin-dns-resolver.md",
+    "flutter/security",
+    "utube_it_app.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
@@ -159,9 +177,6 @@
     "entertainment/films.md",
     "entertainment/manga.md",
     "entertainment/anime.md",
-    "dns/kotlin-dns-resolver.md",
-    "dns/swift-dns-resolver.md",
-    "2023-07-25.md",
     "dns",
     "entertainment",
     "flutter/issues/update_without_vpn.md",
