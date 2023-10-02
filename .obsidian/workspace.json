@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dns/kotlin-dns-resolver.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "840e2ef4fb21bf3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "github/sstpinger.md",
+                "file": "dns/swift-dns-resolver.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "github/sstpinger.md",
+                "file": "dns/swift-dns-resolver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "github/sstpinger.md",
+                "file": "dns/swift-dns-resolver.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "github/sstpinger.md"
+                "file": "dns/swift-dns-resolver.md"
               }
             }
           }
@@ -161,15 +148,8 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "840e2ef4fb21bf3f",
+  "active": "889df0d1afc5aabd",
   "lastOpenFiles": [
-    "utube_it_app.md",
-    "github/sstpinger.md",
-    "github",
-    "dns/swift-dns-resolver.md",
-    "flutter/security/release build.md",
-    "dns/kotlin-dns-resolver.md",
-    "flutter/security",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
@@ -179,6 +159,9 @@
     "entertainment/films.md",
     "entertainment/manga.md",
     "entertainment/anime.md",
+    "dns/kotlin-dns-resolver.md",
+    "dns/swift-dns-resolver.md",
+    "2023-07-25.md",
     "dns",
     "entertainment",
     "flutter/issues/update_without_vpn.md",
