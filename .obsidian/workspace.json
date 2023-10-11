@@ -13,13 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dns/swift-dns-resolver.md",
+                "file": "dns/kotlin-dns-resolver.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "840e2ef4fb21bf3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "github/sstpinger.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9dd37b8e2f376005",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dns/swift-dns-resolver.md",
+                "file": "github/sstpinger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dns/swift-dns-resolver.md",
+                "file": "github/sstpinger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dns/swift-dns-resolver.md"
+                "file": "github/sstpinger.md"
               }
             }
           }
@@ -148,8 +171,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "889df0d1afc5aabd",
+  "active": "9dd37b8e2f376005",
   "lastOpenFiles": [
+    "utube_it_app.md",
+    "github/sstpinger.md",
+    "github",
+    "dns/swift-dns-resolver.md",
+    "flutter/security/release build.md",
+    "dns/kotlin-dns-resolver.md",
+    "flutter/security",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
@@ -159,9 +189,6 @@
     "entertainment/films.md",
     "entertainment/manga.md",
     "entertainment/anime.md",
-    "dns/kotlin-dns-resolver.md",
-    "dns/swift-dns-resolver.md",
-    "2023-07-25.md",
     "dns",
     "entertainment",
     "flutter/issues/update_without_vpn.md",
