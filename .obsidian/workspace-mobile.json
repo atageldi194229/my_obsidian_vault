@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "flutter/l10n.md",
+                "file": "dns/kotlin-dns-resolver.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3da89152b454bf47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-07-25.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "flutter/l10n.md",
+            "file": "2023-07-25.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "flutter/l10n.md",
+            "file": "2023-07-25.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "flutter/l10n.md"
+            "file": "2023-07-25.md"
           }
         }
       }
@@ -133,6 +146,43 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0a3347f340591fc5",
-  "lastOpenFiles": []
+  "active": "3da89152b454bf47",
+  "lastOpenFiles": [
+    "Japanese/Contacts.md",
+    "2023-07-25.md",
+    "Japanese",
+    "IUHD/Information technology/Information security lecture 1.md",
+    "IUHD/Information technology",
+    "IUHD",
+    "Eleven Labs.md",
+    "dns/kotlin-dns-resolver.md",
+    "flutter/packages/internalization-l10n.md",
+    "entertainment/manga.md",
+    "entertainment/films.md",
+    "entertainment/drama.md",
+    "entertainment/anime.md",
+    "dns/swift-dns-resolver.md",
+    "/flutter/packages/json_serializable.md",
+    "/flutter/packages/internalization-l10n.md",
+    "/entertainment/manga.md",
+    "/entertainment/films.md",
+    "/entertainment/drama.md",
+    "/entertainment/anime.md",
+    "/dns/swift-dns-resolver.md",
+    "/dns/kotlin-dns-resolver.md",
+    "/2023-07-25.md",
+    "entertainment",
+    "dns",
+    "/entertainment",
+    "/dns",
+    "new_ideas.md",
+    "flutter/packages/l10n.md",
+    "/flutter/packages/l10n.md",
+    "flutter/packages/json_serializable.md",
+    "flutter/issues/update_without_vpn.md",
+    "/flutter/issues/update_without_vpn.md",
+    "flutter/packages",
+    "flutter/issues",
+    "/flutter/packages"
+  ]
 }
