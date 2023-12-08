@@ -1,3 +1,0 @@
-Merdan Myradov -  
-
-アクムラド

@@ -45,7 +45,7 @@ Thread(Runnable { handlePackets() }).start()
 
 // Return START_STICKY to restart the service if it is killed.
 return START_STICKY
-
+}
 
 override fun onDestroy() {
 // Close the VPN interface and stop the service.
