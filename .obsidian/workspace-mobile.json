@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "49a6ec6a6d2c23ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "83 kg weight.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "dns/kotlin-dns-resolver.md",
+            "file": "83 kg weight.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "dns/kotlin-dns-resolver.md",
+            "file": "83 kg weight.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "dns/kotlin-dns-resolver.md"
+            "file": "83 kg weight.md"
           }
         }
       }
@@ -133,8 +146,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0a3347f340591fc5",
+  "active": "49a6ec6a6d2c23ff",
   "lastOpenFiles": [
+    "dns/kotlin-dns-resolver.md",
+    "83 kg weight.md",
+    "Untitled",
     "github/sstpinger.md",
     "flutter/security/release build.md",
     "flutter/error_handler.md",
@@ -153,7 +169,6 @@
     "IUHD/Information technology",
     "IUHD",
     "Eleven Labs.md",
-    "dns/kotlin-dns-resolver.md",
     "flutter/packages/internalization-l10n.md",
     "entertainment/manga.md",
     "entertainment/films.md",
@@ -167,9 +182,7 @@
     "/entertainment/drama.md",
     "/entertainment/anime.md",
     "/dns/swift-dns-resolver.md",
-    "/2023-07-25.md",
     "entertainment",
-    "dns",
-    "/entertainment"
+    "dns"
   ]
 }
